@@ -1,0 +1,11 @@
+city,position,exp_years_total,seniority_level,main_tech,salary_base,work_language,company_size,is_nbg,main_tech_split
+Erlangen,Project Manager,14,Middle,,62000.0,English,1000+,True,
+Nürnberg,Frontend Developer,1,Junior,Javascript,37500.0,German,up to 10,True,Javascript
+Nürnberg,Testautomation,8,Senior,"Java, JS",60000.0,German,101-1000,True,Java
+Nürnberg,Testautomation,8,Senior,"Java, JS",60000.0,German,101-1000,True,JS
+Nuremberg ,Data Scientist,2,Middle,Python,54000.0,English,1000+,True,Python
+Nürnberg,Software Engineer,9,Senior,Javascript / Typescript,60000.0,German,1000+,True,Javascript
+Nürnberg,Software Engineer,9,Senior,Javascript / Typescript,60000.0,German,1000+,True,Typescript
+Nuremberg,QA Engineer,9,Middle,Java,60000.0,English,1000+,True,Java
+Nuremberg,Software Engineer,20,Lead,Java,74000.0,German,1000+,True,Java
+Nürnberg,QA Engineer,3,Middle,,55000.0,German,101-1000,True,
